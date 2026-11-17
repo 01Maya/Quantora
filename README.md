@@ -12,3 +12,4 @@ The website features a carefully crafted visual identity with warm orange tones,
 
 Designed with a focus on visual storytelling, the experience combines scroll-triggered card animations, layered floating elements, interactive accordions, smooth transitions, and responsive layouts to create an engaging browsing experience.
 
+## 🚀 Features
