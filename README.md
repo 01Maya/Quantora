@@ -10,3 +10,5 @@ Quantora presents an AI-powered financial research platform built to help invest
 
 The website features a carefully crafted visual identity with warm orange tones, soft neutral backgrounds, deep navy accents, and elegant serif typography.
 
+Designed with a focus on visual storytelling, the experience combines scroll-triggered card animations, layered floating elements, interactive accordions, smooth transitions, and responsive layouts to create an engaging browsing experience.
+
