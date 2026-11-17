@@ -7,3 +7,6 @@ Quantora is a premium finance SaaS landing page concept designed to showcase an 
 ## 📝 Description
 
 Quantora presents an AI-powered financial research platform built to help investment professionals simplify research, explore opportunities, and make informed decisions.
+
+The website features a carefully crafted visual identity with warm orange tones, soft neutral backgrounds, deep navy accents, and elegant serif typography.
+
