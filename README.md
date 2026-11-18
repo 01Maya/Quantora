@@ -16,3 +16,4 @@ Designed with a focus on visual storytelling, the experience combines scroll-tri
 
 📱 Fully Responsive Design — Adaptable layouts optimized for desktop, tablet, and mobile devices.
 🎴 Scroll-Driven Card Stacking — Layered cards that animate, overlap, rotate, and transition as users scroll through the experience.
+🔄 Interactive Card Transitions — Dynamic card reveals with smooth position, rotation, and stacking effects.
