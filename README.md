@@ -19,3 +19,5 @@ Designed with a focus on visual storytelling, the experience combines scroll-tri
 🎴 Scroll-Driven Card Stacking — Layered cards that animate, overlap, rotate, and transition as users scroll through the experience.
 
 🔄 Interactive Card Transitions — Dynamic card reveals with smooth position, rotation, and stacking effects.
+
+✨ Scroll-Based Storytelling — Progressive content reveals that guide users through different sections of the landing page.
