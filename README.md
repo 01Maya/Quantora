@@ -25,3 +25,5 @@ Designed with a focus on visual storytelling, the experience combines scroll-tri
 🪄 Floating Card Interactions — Animated floating research cards with depth, layered shadows, and smooth movement.
 
 🧭 Smooth Section Navigation — Seamless navigation with anchor scrolling and responsive navigation elements.
+
+🎯 Interactive Accordion — Expandable research benefits with active states and smooth content transitions.
