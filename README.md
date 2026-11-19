@@ -23,3 +23,5 @@ Designed with a focus on visual storytelling, the experience combines scroll-tri
 ✨ Scroll-Based Storytelling — Progressive content reveals that guide users through different sections of the landing page.
 
 🪄 Floating Card Interactions — Animated floating research cards with depth, layered shadows, and smooth movement.
+
+🧭 Smooth Section Navigation — Seamless navigation with anchor scrolling and responsive navigation elements.
