@@ -27,3 +27,5 @@ Designed with a focus on visual storytelling, the experience combines scroll-tri
 🧭 Smooth Section Navigation — Seamless navigation with anchor scrolling and responsive navigation elements.
 
 🎯 Interactive Accordion — Expandable research benefits with active states and smooth content transitions.
+
+🖱️ Micro-interactions & Hover Effects — Subtle animations across buttons, cards, links, and interactive elements.
