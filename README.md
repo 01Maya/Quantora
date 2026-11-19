@@ -21,3 +21,5 @@ Designed with a focus on visual storytelling, the experience combines scroll-tri
 🔄 Interactive Card Transitions — Dynamic card reveals with smooth position, rotation, and stacking effects.
 
 ✨ Scroll-Based Storytelling — Progressive content reveals that guide users through different sections of the landing page.
+
+🪄 Floating Card Interactions — Animated floating research cards with depth, layered shadows, and smooth movement.
