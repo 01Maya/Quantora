@@ -14,30 +14,19 @@ Designed with a focus on visual storytelling, the experience combines scroll-tri
 
 ## 🚀 Features
 
-📱 Fully Responsive Design — Adaptable layouts optimized for desktop, tablet, and mobile devices.
-
-🎴 Scroll-Driven Card Stacking — Layered cards that animate, overlap, rotate, and transition as users scroll through the experience.
-
-🔄 Interactive Card Transitions — Dynamic card reveals with smooth position, rotation, and stacking effects.
-
-✨ Scroll-Based Storytelling — Progressive content reveals that guide users through different sections of the landing page.
-
-🪄 Floating Card Interactions — Animated floating research cards with depth, layered shadows, and smooth movement.
-
-🧭 Smooth Section Navigation — Seamless navigation with anchor scrolling and responsive navigation elements.
-
-🎯 Interactive Accordion — Expandable research benefits with active states and smooth content transitions.
-
-🖱️ Micro-interactions & Hover Effects — Subtle animations across buttons, cards, links, and interactive elements.
-
-🎨 Editorial Visual Identity — Elegant serif typography, warm orange accents, navy backgrounds, and balanced neutral colors.
-
-🖼️ Custom Illustrated Visuals — Consistent finance-inspired illustrations that strengthen the website's visual storytelling.
-
-📐 Responsive Component Layouts — Carefully adjusted spacing, alignment, typography, and image proportions across screen sizes.
-
-⚡ Performance & Accessibility — Semantic structure, optimized assets, and consideration for reduced-motion preferences.
-
+- 📱 **Fully Responsive Design** — Adaptable layouts optimized for desktop, tablet, and mobile devices.
+- 🎴 **Scroll-Driven Card Stacking** — Layered cards that animate, overlap, rotate, and transition as users scroll through the experience.
+- 🔄 **Interactive Card Transitions** — Dynamic card reveals with smooth position, rotation, and stacking effects.
+- ✨ **Scroll-Based Storytelling** — Progressive content reveals that guide users through different sections of the landing page.
+- 🪄 **Floating Card Interactions** — Animated floating research cards with depth, layered shadows, and smooth movement.
+- 🧭 **Smooth Section Navigation** — Seamless navigation with anchor scrolling and responsive navigation elements.
+- 🎯 **Interactive Accordion** — Expandable research benefits with active states and smooth content transitions.
+- 🖱️ **Micro-interactions & Hover Effects** — Subtle animations across buttons, cards, links, and interactive elements.
+- 🎨 **Editorial Visual Identity** — Elegant serif typography, warm orange accents, navy backgrounds, and balanced neutral colors.
+- 🖼️ **Custom Illustrated Visuals** — Consistent finance-inspired illustrations that strengthen the website's visual storytelling.
+- 📐 **Responsive Component Layouts** — Carefully adjusted spacing, alignment, typography, and image proportions across screen sizes.
+- ⚡ **Performance & Accessibility** — Semantic structure, optimized assets, and consideration for reduced-motion preferences.
+  
 ---
 
 ## 📂 Website Sections
