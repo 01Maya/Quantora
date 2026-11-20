@@ -39,3 +39,5 @@ Designed with a focus on visual storytelling, the experience combines scroll-tri
 ⚡ Performance & Accessibility — Semantic structure, optimized assets, and consideration for reduced-motion preferences.
 
 ---
+
+## 📂 Website Sections
