@@ -29,3 +29,5 @@ Designed with a focus on visual storytelling, the experience combines scroll-tri
 🎯 Interactive Accordion — Expandable research benefits with active states and smooth content transitions.
 
 🖱️ Micro-interactions & Hover Effects — Subtle animations across buttons, cards, links, and interactive elements.
+
+🎨 Editorial Visual Identity — Elegant serif typography, warm orange accents, navy backgrounds, and balanced neutral colors.
