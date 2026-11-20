@@ -37,3 +37,5 @@ Designed with a focus on visual storytelling, the experience combines scroll-tri
 📐 Responsive Component Layouts — Carefully adjusted spacing, alignment, typography, and image proportions across screen sizes.
 
 ⚡ Performance & Accessibility — Semantic structure, optimized assets, and consideration for reduced-motion preferences.
+
+---
