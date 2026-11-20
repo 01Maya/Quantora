@@ -32,3 +32,4 @@ Designed with a focus on visual storytelling, the experience combines scroll-tri
 ## 📂 Website Sections
 
 - **Navbar** — Minimal navigation with brand identity, section links, and a Request Demo CTA.
+- **Hero** — Bold introductory headline, supporting description, primary CTA, and illustrated finance research visual.
