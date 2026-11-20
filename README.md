@@ -36,3 +36,4 @@ Designed with a focus on visual storytelling, the experience combines scroll-tri
 - **Purpose-Built for Financial Research** — Highlights proprietary data, deep financial research, and rapid insights.
 - **Finance Research Copilot** — Interactive accordion showcasing the platform's research capabilities.
 - **Financial Data & Capabilities** — Feature cards highlighting financial knowledge, enterprise-grade security, and AI-powered research.
+- **Built for Every Analyst** — Showcases industry-specific use cases, including private equity, investment banking, credit, hedge funds, and venture capital.
