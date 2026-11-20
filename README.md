@@ -35,3 +35,4 @@ Designed with a focus on visual storytelling, the experience combines scroll-tri
 - **Hero** — Bold introductory headline, supporting description, primary CTA, and illustrated finance research visual.
 - **Purpose-Built for Financial Research** — Highlights proprietary data, deep financial research, and rapid insights.
 - **Finance Research Copilot** — Interactive accordion showcasing the platform's research capabilities.
+- **Financial Data & Capabilities** — Feature cards highlighting financial knowledge, enterprise-grade security, and AI-powered research.
