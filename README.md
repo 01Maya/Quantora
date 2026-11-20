@@ -40,3 +40,4 @@ Designed with a focus on visual storytelling, the experience combines scroll-tri
 - **What You Can Expect** — Scroll-driven storytelling section featuring overlapping, rotating, and animated floating research cards.
 - **Quantora Academy** — Educational resources, webinars, whitepapers, and financial insights.
 - **Final CTA** — Visually engaging call-to-action section encouraging users to get started.
+- **Footer** — Brand-focused footer with company information, navigation links, and social connections.
