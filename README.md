@@ -33,3 +33,4 @@ Designed with a focus on visual storytelling, the experience combines scroll-tri
 
 - **Navbar** — Minimal navigation with brand identity, section links, and a Request Demo CTA.
 - **Hero** — Bold introductory headline, supporting description, primary CTA, and illustrated finance research visual.
+- **Purpose-Built for Financial Research** — Highlights proprietary data, deep financial research, and rapid insights.
