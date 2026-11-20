@@ -33,3 +33,5 @@ Designed with a focus on visual storytelling, the experience combines scroll-tri
 🎨 Editorial Visual Identity — Elegant serif typography, warm orange accents, navy backgrounds, and balanced neutral colors.
 
 🖼️ Custom Illustrated Visuals — Consistent finance-inspired illustrations that strengthen the website's visual storytelling.
+
+📐 Responsive Component Layouts — Carefully adjusted spacing, alignment, typography, and image proportions across screen sizes.
