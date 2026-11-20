@@ -38,3 +38,4 @@ Designed with a focus on visual storytelling, the experience combines scroll-tri
 - **Financial Data & Capabilities** — Feature cards highlighting financial knowledge, enterprise-grade security, and AI-powered research.
 - **Built for Every Analyst** — Showcases industry-specific use cases, including private equity, investment banking, credit, hedge funds, and venture capital.
 - **What You Can Expect** — Scroll-driven storytelling section featuring overlapping, rotating, and animated floating research cards.
+- **Quantora Academy** — Educational resources, webinars, whitepapers, and financial insights.
