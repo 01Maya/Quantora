@@ -43,3 +43,4 @@ Designed with a focus on visual storytelling, the experience combines scroll-tri
 - **Footer** — Brand-focused footer with company information, navigation links, and social connections.
 
 ## 🛠️ Tech Stack
+
