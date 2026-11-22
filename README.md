@@ -50,3 +50,4 @@ Designed with a focus on visual storytelling, the experience combines scroll-tri
 
 ## 🛠️ Tech Stack
 
+- **Next.js** — React framework for building the application.
