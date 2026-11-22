@@ -53,3 +53,4 @@ Designed with a focus on visual storytelling, the experience combines scroll-tri
 - **Next.js** — React framework for building the application.
 - **React** — Component-based UI development.
 - **JavaScript** — Application logic and interactive functionality.
+- **CSS / Styled JSX** — Custom styling, responsive layouts, and animations.
