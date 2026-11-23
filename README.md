@@ -63,3 +63,4 @@ Designed with a focus on visual storytelling, the experience combines scroll-tri
 
 - **Visual Style:** Modern editorial, minimal, and premium SaaS.
 - **Typography:** Elegant serif display typography paired with clean sans-serif body text.
+- **Color Palette:** Warm orange, soft cream, pale blue, and deep navy.
