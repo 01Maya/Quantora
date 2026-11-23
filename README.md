@@ -55,5 +55,5 @@ Designed with a focus on visual storytelling, the experience combines scroll-tri
 - **JavaScript** — Application logic and interactive functionality.
 - **CSS / Styled JSX** — Custom styling, responsive layouts, and animations.
 - **Framer Motion** — Scroll-based animations, card transitions, and motion effects.
-
+- **Lucide React** — Lightweight icons for interface elements.
 ---
