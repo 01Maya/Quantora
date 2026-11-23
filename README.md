@@ -62,3 +62,4 @@ Designed with a focus on visual storytelling, the experience combines scroll-tri
 ## 🎨 Design Approach
 
 - **Visual Style:** Modern editorial, minimal, and premium SaaS.
+- **Typography:** Elegant serif display typography paired with clean sans-serif body text.
