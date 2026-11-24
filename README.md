@@ -71,5 +71,6 @@ Designed with a focus on visual storytelling, the experience combines scroll-tri
 
 ## 👀 Preview
 
+---
 
 ## 📸 Screenshots
