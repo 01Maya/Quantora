@@ -65,5 +65,6 @@ Designed with a focus on visual storytelling, the experience combines scroll-tri
 - **Typography:** Elegant serif display typography paired with clean sans-serif body text.
 - **Color Palette:** Warm orange, soft cream, pale blue, and deep navy.
 - **Layout:** Spacious compositions, balanced grids, rounded cards, and layered elements.
-
+- **Motion:** Scroll-driven storytelling, floating cards, smooth reveals, and subtle hover interactions.
+  
 ---
