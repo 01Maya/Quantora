@@ -68,3 +68,5 @@ Designed with a focus on visual storytelling, the experience combines scroll-tri
 - **Motion:** Scroll-driven storytelling, floating cards, smooth reveals, and subtle hover interactions.
   
 ---
+
+## 👀 Preview
