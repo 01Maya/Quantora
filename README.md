@@ -76,3 +76,6 @@ https://quantoraa.vercel.app/
 ---
 
 ## 📸 Screenshots
+
+
+## ⚙️ Installation
