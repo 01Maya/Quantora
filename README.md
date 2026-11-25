@@ -84,3 +84,5 @@ https://quantoraa.vercel.app/
 ## ⚙️ Installation
 
 ### 1. Clone the Repository
+
+---
