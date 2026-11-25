@@ -77,5 +77,6 @@ https://quantoraa.vercel.app/
 
 ## 📸 Screenshots
 
+<img width="1440" height="6800" alt="quantora" src="https://github.com/user-attachments/assets/959c0bfd-4755-42cf-94e0-75e0f0548e05" />
 
 ## ⚙️ Installation
