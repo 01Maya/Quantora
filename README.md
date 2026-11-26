@@ -88,4 +88,8 @@ https://quantoraa.vercel.app/
 ```bash
 git clone https://github.com/your-username/quantora.git
 ```
+
+### 2. Navigate to the Project
+
+
 ---
