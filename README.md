@@ -140,7 +140,8 @@ The project can be deployed using **Vercel**.
 
 ## 📄 License
 
-This project is created for portfolio and educational purposes. You are free to explore, modify, and adapt it for your own projects.
+This project is licensed under the MIT License.
+See the [LICENSE](LICENSE) file for details.
 
 ---
 
