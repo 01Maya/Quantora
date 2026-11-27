@@ -123,3 +123,10 @@ Create an optimized production build:
 npm run build
 ```
 
+Start the production server:
+
+```bash
+npm run start
+```
+
+## 🌐 Deployment
