@@ -130,3 +130,10 @@ npm run start
 ```
 
 ## 🌐 Deployment
+
+The project can be deployed using **Vercel**.
+
+1. Push the project to GitHub.
+2. Import the repository into Vercel.
+3. Configure the project settings if required.
+4. Deploy and access the live website.
