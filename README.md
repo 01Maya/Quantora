@@ -94,4 +94,24 @@ git clone https://github.com/your-username/quantora.git
 ```bash
 cd quantora
 ```
+### 3. Install Dependencies
+
+```bash
+npm install
+```
+
+### 4. Run the Development Server
+
+```bash
+npm run dev
+```
+
+### 5. Open the Project
+
+Visit:
+
+```text
+http://localhost:3000
+```
+
 ---
