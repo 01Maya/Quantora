@@ -137,3 +137,10 @@ The project can be deployed using **Vercel**.
 2. Import the repository into Vercel.
 3. Configure the project settings if required.
 4. Deploy and access the live website.
+
+## 📄 License
+
+This project is created for portfolio and educational purposes. You are free to explore, modify, and adapt it for your own projects.
+
+---
+
